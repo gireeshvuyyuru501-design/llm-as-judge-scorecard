@@ -1,0 +1,6 @@
+[
+  {"id":"case-1","question":"What is the capital of France?","reference":"Paris is the capital of France.","response":"Paris is the capital of France.","human_rating":5},
+  {"id":"case-2","question":"What is the capital of Japan?","reference":"Tokyo is the capital of Japan.","response":"Kyoto is the capital of Japan.","human_rating":1},
+  {"id":"case-3","question":"What planet is known as the Red Planet?","reference":"Mars is known as the Red Planet.","response":"Mars.","human_rating":5},
+  {"id":"case-4","question":"What is H2O?","reference":"H2O is water.","response":"", "human_rating":1}
+]
