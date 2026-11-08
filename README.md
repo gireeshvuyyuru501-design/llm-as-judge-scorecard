@@ -20,3 +20,32 @@ Output: `scorecard_report.json` (generated, not tracked). No dependencies or API
 - Expose results through FastAPI and a shared React dashboard
 
 The bundled `data/sample_cases.json` contains **four synthetic fixtures**, not a public benchmark dataset. No model-based results are claimed.
+
+<!-- PORTFOLIO-OVERVIEW-START -->
+
+## Project overview
+
+Offline lexical-overlap scoring for evaluating response quality without live LLM inference.
+
+### Technologies and concepts
+
+ - python
+ - llm evaluation
+ - evaluation
+ - ai testing
+ - nlp
+
+### Repository information
+
+- **Category:** AI Quality Engineering / Software Testing
+- **Evaluation type:** Offline and/or synthetic fixtures, as documented in this repository
+- **Source code:** [GitHub repository](https://github.com/gireeshvuyyuru501-design/llm-as-judge-scorecard.git)
+- **License:** MIT (subject to repository license file)
+
+### AI Quality Engineering portfolio
+
+This project is part of an 11-project portfolio covering evaluation datasets, structured-output validation, offline scoring, prompt regression, retrieval benchmarking, adversarial testing, agent tool calls, and quality monitoring.
+
+[Explore the integrated AI Quality Engineering Platform](https://github.com/gireeshvuyyuru501-design/ai-quality-engineering-platform)
+
+<!-- PORTFOLIO-OVERVIEW-END -->
